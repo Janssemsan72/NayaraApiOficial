@@ -8,6 +8,11 @@ export const metadata: Metadata = {
   title: "Dados – 54.588.391 Nayara Carneiro Salustiano da Silva",
   description:
     "Soluções Estratégicas em Promoção, Conteúdo e Capacitação. Atuamos de forma integrada na promoção de vendas, produção de conteúdos editoriais e desenvolvimento profissional.",
+  verification: {
+    other: {
+      "facebook-domain-verification": "oberowv6yfprwefqfz7oqq3rcr51ee",
+    },
+  },
 };
 
 export default function RootLayout({
